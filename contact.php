@@ -1,6 +1,5 @@
 <?php
     require_once "templates/header.php";
-    require_once "templates/nav.php";
 ?>
     <div class="container">
         <div class="row">

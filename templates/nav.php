@@ -3,9 +3,9 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link" href="/index.php">Accueil</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/about.php">A propos de nous</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/contact.php">Contactez-nous</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/post.php">Blog</a></li>
+                        <li class="nav-item"><a class="nav-link" href="../about.php">A propos de nous</a></li>
+                        <li class="nav-item"><a class="nav-link" href="../contact.php">Contactez-nous</a></li>
+                        <li class="nav-item"><a class="nav-link" href="../post.php">Blog</a></li>
                     </ul>
                 </div>
             </div>
